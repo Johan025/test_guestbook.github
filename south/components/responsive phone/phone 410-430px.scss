@@ -1,6 +1,9 @@
 @import "./version\ telephone.scss" ;
 
 @media screen and (max-width:430px) and (min-width:410px){
+    .contain p{
+      font-size: 17px;
+    } 
     header{
         position: fixed;
         width: 100%;
